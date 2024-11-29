@@ -1,1 +1,3 @@
-# github-assignment
+- じこ紹介
+- 学科
+- 気持ち
